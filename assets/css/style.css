@@ -292,7 +292,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 30px;
 }
 
-#about .social-links a {
+#home .social-links a {
   font-size: 24px;
   display: inline-block;
   color: #45505b;
@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 
-#about .social-links a:hover {
+#home .social-links a:hover {
   color: #0563bb;
 }
 
@@ -372,14 +372,14 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-.about .content h2 {
+.home .content h2 {
   font-weight: 300;
   font-size: 32px;
   color: #728394;
 }
 
 
-.about .content span:last-child {
+.home .content span:last-child {
     
   margin-bottom: 10;
       font-size: 19px;
@@ -1157,3 +1157,5 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
