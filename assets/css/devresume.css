@@ -227,7 +227,7 @@ a {
 }
 
 a:hover {
-	color: #43926e
+	color: #FFF
 }
 
 a:not([href]):not([class]),
@@ -2464,7 +2464,7 @@ textarea.form-control-lg {
 }
 
 .form-check-input:checked {
-	background-color: #54B866a91689;
+	background-color: #866A91;
 	border-color: #866a91
 }
 
@@ -3790,7 +3790,7 @@ fieldset:disabled .btn {
 }
 
 .btn-link:hover {
-	color: #43926e
+	color: #FFF
 }
 
 .btn-link:disabled,
@@ -4324,7 +4324,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-	color: #43926e
+	color: #FFF
 }
 
 .nav-link.disabled {
@@ -5170,14 +5170,14 @@ fieldset:disabled .btn {
 
 .page-link:hover {
 	z-index: 2;
-	color: #43926e;
+	color: #FFF;
 	background-color: #b5b5b5;
 	border-color: #a9a9a9
 }
 
 .page-link:focus {
 	z-index: 3;
-	color: #43926e;
+	color: #FFF;
 	background-color: #b5b5b5;
 	outline: 0;
 	box-shadow: 0 0 0 .25rem rgba(84, 182, 137, 0.25)
