@@ -8,6 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -96,24 +97,24 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
-#header .profile .social-links a {
-  font-size: 18px;
+ .profile .social-links a {
+  font-size: 28px;
   display: inline-block;
-  background: #212431;
-  color: #fff;
+  background: ;
+  color: #16094f;
   line-height: 1;
   padding: 8px 0;
-  margin-right: 4px;
+  margin-right: 12px;
   border-radius: 50%;
   text-align: center;
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   transition: 0.3s;
 }
 
-#header .profile .social-links a:hover {
+ .profile .social-links a:hover {
   background: #bfc3ba;
-  color: #fff;
+  color: #220e78;
   text-decoration: none;
 }
 
@@ -135,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 /* Desktop Navigation */
 .nav-menu {
-  padding-top: 30px;
+  padding-top: 25px;
 }
 
 .nav-menu * {
@@ -153,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: content: '';
   color: #bfc3ba;
-  padding: 12px 15px;
+  padding: 10px 12px;
   margin-bottom: 8px;
   transition: 0.3s;
   font-size: 16px;
@@ -819,29 +820,10 @@ section {
   padding-top: 5px;
 }
 
-.contact .info .social-links {
-  padding-left: 60px;
-}
 
-.contact .info .social-links a {
-  font-size: 18px;
-  display: inline-block;
-  background: #333;
-  color: #fff;
-  line-height: 1;
-  padding: 8px 0;
-  border-radius: 50%;
-  text-align: center;
-  width: 36px;
-  height: 36px;
-  transition: 0.3s;
-  margin-right: 10px;
-}
 
-.contact .info .social-links a:hover {
-  background: #149ddd;
-  color: #fff;
-}
+
+
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #149ddd;
